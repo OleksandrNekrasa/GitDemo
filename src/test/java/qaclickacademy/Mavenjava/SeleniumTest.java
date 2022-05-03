@@ -19,7 +19,7 @@ public class SeleniumTest {
 	}
 	
 	@Test
-	public void BrowserAutomation ()
+	public void BrowserAutomation2 ()
 	{
 		System.out.println("BrowserAutomation");
 		System.out.println("Web Automation");
